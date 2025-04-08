@@ -1,12 +1,43 @@
-# React + Vite
+ Aziz Ishan-Khojaev — Portfolio Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to my personal portfolio! This site showcases my work, skills, and professional experience as a **DevOps Engineer** and **Data Analyst**.
 
-Currently, two official plugins are available:
+## 🚀 Tech Stack
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- **React + Vite** – Frontend framework & tooling
+- **Tailwind CSS** – For modern, responsive styling
+- **GitHub Pages / Vercel** – For deployment (easy and fast)
 
-## Expanding the ESLint configuration
+## 🧑‍💻 About Me
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+I’m a DevOps and Data Platform Engineer with a strong background in:
+
+- Cloud technologies (Azure, AWS, OCI)
+- Infrastructure automation (Terraform, Ansible)
+- CI/CD, Kubernetes, Docker
+- Data Analysis with Python (Pandas, Scikit-learn, OpenCV)
+- SQL databases and Microservice development (GoLang)
+
+🗂 [Check out my resume](https://www.linkedin.com/in/aziz-ishan-khojaev-073472107/)
+
+## 📂 Projects Featured
+
+- **Car Price Prediction** – Regression analysis using real-world data
+- **Sentiment Analysis on Coca-Cola Reviews** – Web scraping + NLP
+- **Market Sentiment vs Stock Trends** – Data correlation & visualization
+
+## 🌐 Live Website
+
+- Website: [website](https://azizishankhodjaev.netlify.app/)
+
+## 📬 Contact
+
+- 📧 Email: aziz.ishankhodschaev@gmail.com
+- 🔗 GitHub: [Azneo](https://github.com/Azneo)
+- 🔗 LinkedIn: [aziz-ishan-khojaev](https://www.linkedin.com/in/aziz-ishan-khojaev-073472107/)
+
+---
+
+## 📄 License
+
+This project is open source under the [MIT License](LICENSE).
