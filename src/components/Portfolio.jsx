@@ -33,13 +33,19 @@ export default function Portfolio() {
             <p className="mt-2 text-gray-300">Analyzed tweet sentiment trends over time, filled missing data, and overlaid with stock market data to explore correlations in behavior and pricing.</p>
             <a href="https://github.com/Azneo/Bachelor" target="_blank" className="text-blue-400 hover:underline">GitHub Repo</a>
           </div>
+
+          <div>
+            <h3 className="text-xl font-bold">Stromverbrauchsprognose mit Prophet</h3>
+            <p className="mt-2 text-gray-300">Dieses Projekt analysiert und prognostiziert den Stromverbrauch auf Basis historischer Verbrauchsdaten mithilfe des Facebook Prophet Modells.</p>
+            <a href="https://github.com/Azneo/stromverbrauch-projekt" target="_blank" className="text-blue-400 hover:underline">GitHub Repo</a>
+          </div>
         </div>
       </section>
 
       <section>
         <h2 className="text-2xl font-semibold mb-4 border-b pb-2 border-gray-700">Skills & Technologies</h2>
         <ul className="list-disc list-inside text-gray-300 space-y-1">
-          <li>Cloud: Azure, AWS, OCI</li>
+          <li>Cloud: Azure, AWS</li>
           <li>Infrastructure: Terraform, Ansible, Docker, Kubernetes</li>
           <li>Languages: Python, Go, SQL (PostgreSQL, Oracle), Java</li>
           <li>Data Tools: Pandas, Scikit-learn, OpenCV, Matplotlib</li>
