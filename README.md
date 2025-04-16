@@ -12,7 +12,7 @@ Welcome to my personal portfolio! This site showcases my work, skills, and profe
 
 I’m a DevOps and Data Platform Engineer with a strong background in:
 
-- Cloud technologies (Azure, AWS, OCI)
+- Cloud technologies (Azure, AWS)
 - Infrastructure automation (Terraform, Ansible)
 - CI/CD, Kubernetes, Docker
 - Data Analysis with Python (Pandas, Scikit-learn, OpenCV)
